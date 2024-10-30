@@ -1,0 +1,19 @@
+.bg {
+	font-family: arial;
+	background-color: pink;
+}
+
+.bold {
+	font-size: large;
+}
+
+#blue {
+	color: blue;
+	font-size: larger;
+	font-weight: 700;
+}
+
+#green {
+	background-color: lightgreen;
+	font-weight: 700;
+}
